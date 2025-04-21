@@ -6,21 +6,6 @@
 
 A desktop application for managing stock, suppliers, and purchase orders — built with Python, Tkinter, and SQLite. Designed for small to medium businesses that need a local, lightweight solution for inventory and supplier tracking.
 
----
-
-## 📸 Screenshots
-
-> Replace the placeholder image links with your screenshots in the `/assets/` folder
-
-| Login Page | Dashboard |
-|------------|-----------|
-| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) |
-
-| Stock List | Add New Item |
-|------------|--------------|
-| ![Stock List](assets/stock_list.png) | ![Add Item](assets/add_item.png) |
-
----
 
 ## 📚 Features at a Glance
 
@@ -101,17 +86,10 @@ The database (`stock_maintenance.db`) will be created automatically on first run
 - 🌐 Multi-language support
 - 🧪 Unit & integration tests
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙋‍♂️ Author
 
 Developed by **Vanshaj Awasthi**  
-Feel free to [reach out](mailto:youremail@example.com) or connect via [LinkedIn](https://www.linkedin.com/).
+Feel free to [reach out](awasthivanshaj@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/vanshaj-awasthi/).
 
 ---
